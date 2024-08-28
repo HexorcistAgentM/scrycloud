@@ -16,5 +16,5 @@ Press `ESC` to exit at any time.
   ```python
   music = pygame.mixer.Sound('sc_img/music.wav')
 
-##Credits
+## Credits
 The music track is “Beneath the Lights and Salts” by Century of Aeroplanes.
