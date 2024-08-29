@@ -1,9 +1,9 @@
 # TekMajik: Scrycloud
 
-**TekMajik: Scrycloud** is an adaptation of [ScryCloud from Technomancy 101](https://technomancy101.com/scrycloud/) recreated from Scratch in Python using the Pygame library.
+**TekMajik: Scrycloud** is an adaptation of [Scrycloud from Technomancy 101](https://technomancy101.com/scrycloud/) recreated from Scratch in Python using the Pygame library.
 
 ## Description
-Scrycloud generates shifting difference clouds, offering a visual medium for divining through pareidolia and liminal imagery. The program features a customizable sigil with adjustable brightness and an ambient music track playing in the background.
+Scrycloud generates shifting difference clouds, offering a visual medium for divining through pareidolia and liminal imagery. The program features a customizable sigil and an ambient music track playing in the background.
 
 ## How to Use
 Before using Scrycloud, it is recommended to meditate and set a sacred space. A suggested ritual is [Thee Holy Rite of Konami](https://www.facebook.com/photo/?fbid=110582964071583&set=a.109709474158932) by TekMage Occult. After performing your evocation, you can gaze into the clouds and scry. 
